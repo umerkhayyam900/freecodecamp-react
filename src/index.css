@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #27292c;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 40px;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+}
+
+.header {
+  flex-wrap:wrap-reverse;
+  display: flex;
+  justify-content:space-between;
+}
+
+.nav-list-item {
+  margin-left: 10px;
+  font-size: 1.1rem;
+}
+
+.image {
+  width: 55px;
+}
